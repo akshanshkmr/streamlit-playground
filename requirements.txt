@@ -3,5 +3,6 @@ link-button
 st-radial
 st-card
 streamlit-ace
+streamlit-echarts
 plotly
 altair
