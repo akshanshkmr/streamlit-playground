@@ -1,4 +1,5 @@
 streamlit
+streamlit-aggrid
 link-button
 st-radial
 st-card
