@@ -5,5 +5,6 @@ st-radial
 st-card
 streamlit-ace
 streamlit-echarts
+streamlit-apex-charts
 plotly
 altair
