@@ -3,6 +3,7 @@ streamlit-aggrid
 link-button
 st-radial
 st-card
+st-material-table
 streamlit-ace
 streamlit-echarts
 streamlit-apex-charts
