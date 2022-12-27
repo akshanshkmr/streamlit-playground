@@ -15,4 +15,4 @@ An online streamlit development platform
 [![Open in Streamlit][share_badge]][share_link] 
 
 [share_badge]: https://static.streamlit.io/badges/streamlit_badge_black_white.svg
-[share_link]: https://share.streamlit.io/akshanshkmr/streamlit-playground/main/app.py
+[share_link]: https://create.streamlit.app/
