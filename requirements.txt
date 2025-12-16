@@ -3,5 +3,6 @@ streamlit-aggrid
 st-material-table
 streamlit-ace
 streamlit-echarts
+streamlit_extras
 plotly
 altair

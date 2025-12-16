@@ -62,10 +62,17 @@ if __name__ == '__main__':
             '- Press **Run** to execute safely\n'
             '- Use **Back to Editor** to make changes'
         )
-        if st.button('Insert sample snippet'):
+        if st.button('Insert sample snippet', use_container_width=True):
             st.session_state['code_bk'] = _sample_snippet
             st.session_state.pop('code', None)
             st.rerun()
+        st.link_button(
+            'Request new library ➕',
+            'https://github.com/akshanshkmr/streamlit-playground/edit/main/requirements.txt',
+            type='secondary',
+            use_container_width=True,
+            help='Opens requirements.txt to propose a new dependency',
+        )
 
     if 'code' in st.session_state:
         code = st.session_state['code']
