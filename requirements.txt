@@ -6,3 +6,4 @@ streamlit-echarts
 streamlit_extras
 plotly
 altair
+langchain-community
